@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*::after,
+::before {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1300px;
+  margin: auto;
+  padding: 0 80px;
+}
